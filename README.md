@@ -1,0 +1,2 @@
+# online-class_efficiency_optimizer
+用Python开发的一款软件，可以在上网课期间提高学生的专注力，避免其打开不必要的窗口。
